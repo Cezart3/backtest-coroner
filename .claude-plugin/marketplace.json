@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "backtest-coroner",
+  "description": "Find out how your backtest died before your money does.",
+  "owner": {
+    "name": "Cezar Tocaciu",
+    "url": "https://github.com/Cezart3"
+  },
+  "plugins": [
+    {
+      "name": "backtest-coroner",
+      "description": "Forensic falsification protocol for trading backtests and prop-firm challenges.",
+      "source": "./",
+      "category": "development"
+    }
+  ]
+}

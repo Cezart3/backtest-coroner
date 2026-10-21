@@ -1,0 +1,13 @@
+{
+  "name": "backtest-coroner",
+  "version": "1.0.0",
+  "description": "Forensic falsification protocol for trading backtests: era holdouts, breakeven cost c*, random-direction placebos, injection probes and prop-firm account economics. Your backtest is dead until proven alive.",
+  "author": {
+    "name": "Cezar Tocaciu",
+    "url": "https://github.com/Cezart3"
+  },
+  "homepage": "https://github.com/Cezart3/backtest-coroner",
+  "repository": "https://github.com/Cezart3/backtest-coroner",
+  "license": "MIT",
+  "keywords": ["backtesting", "algorithmic-trading", "overfitting", "quant", "prop-firm", "trading-strategy", "skill"]
+}
